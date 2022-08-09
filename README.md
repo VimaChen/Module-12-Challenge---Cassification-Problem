@@ -30,4 +30,4 @@ Credit risk poses a classification problem that’s inherently imbalanced. The r
 
 ## Summary
 
-From the comparision of the two models, I would recommend the Machine Learning Model 2 which includes Random Oversampling. The overall accuracy is improved with this model but most importantly, the recall relating to high-risk loans is improved from 91% to 99%. That means, it can help to reduce the risk of default the high-risk loans when it was categorized as the healthy loans.
+From the comparision of the two models, I would recommend the Machine Learning Model 2 which includes Random Oversampling. The overall accuracy is improved with this model but most importantly, the recall relating to high-risk loans is improved from 91% to 99%. That means, it can help to reduce the risk of default the high-risk loans when they were categorized wrongly as the healthy loans.
